@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(90deg, rgba(76,0,255,1) 0%, rgba(255,0,232,1) 25%, rgba(249,255,0,1) 100%);
+    background-size: cover;
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    
+    
+}
+.date {
+    background: rgba(0, 0, 0, .5);
+    padding: 20px;
+    text-align: center;
+}
+
+.date p {
+    display: inline-block;
+    font-size: 1.5rem;
+}
+
+.watch {
+    background: rgba(0, 0, 0, .5);
+    padding: 20px;
+    text-align: center;
+}
+
+.watch p {
+    display: inline-block;
+    font-size: 4rem;
+}
+
+.watch .seconds-box {
+    display: inline-block;
+}
+
